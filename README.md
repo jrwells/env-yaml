@@ -1,11 +1,5 @@
 # env-yaml
 
-## Install
-
-```bash
-npm install dotenv --save
-```
-
 ## Usage
 
 ```javascript
