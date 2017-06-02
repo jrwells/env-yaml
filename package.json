@@ -1,7 +1,7 @@
 {
   "name": "env-yaml",
   "version": "0.1.0",
-  "description": "Lightweight YAML .env file loader",
+  "description": "Minimal YAML .env file loader",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
