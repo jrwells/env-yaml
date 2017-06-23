@@ -1,12 +1,17 @@
 {
   "name": "env-yaml",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Minimal YAML .env file loader",
   "main": "lib/index.js",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/jrwells/env-yaml.git"
   },
   "author": "Robert Wells",
+  "bugs": {
+    "url": "https://github.com/jrwells/env-yaml/issues"
+  },
+  "homepage": "https://github.com/jrwells/env-yaml#readme",
   "dependencies": {
     "js-yaml": "^3.8.4"
   },
