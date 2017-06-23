@@ -1,6 +1,6 @@
 {
   "name": "env-yaml",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Minimal YAML .env file loader",
   "main": "lib/index.js",
   "repository": {
