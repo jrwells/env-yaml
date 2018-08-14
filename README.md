@@ -36,3 +36,13 @@ using this option.
 ```javascript
 require('env-yaml').config({ encoding: 'base64' });
 ```
+
+### Namespace
+
+Default: null
+
+You may specify a namespace in which to fetch your environment variables. Useful when you want to store environment specific values within the same files.
+
+```javascript
+require('env-yaml').config({ namespace: 'development' });
+```
